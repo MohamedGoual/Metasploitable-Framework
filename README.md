@@ -22,7 +22,7 @@ wget https://raw.githubusercontent.com/MohamedGoual/Metasploitable-Framework/mai
 chmod +x run.sh
 ```
 ```bash
-./metasploit.sh
+./run.sh
 ```
 ### 🏁 After Installation
 **Run the command :)**
