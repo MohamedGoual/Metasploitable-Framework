@@ -14,12 +14,18 @@
 ### ⚙️ How to Use
 ```bash
 pkg install wget
-wget https://github.com/MohamedGoual/Metasploitable-Framework/run.sh
+```
+```bash
+wget https://raw.githubusercontent.com/MohamedGoual/Metasploitable-Framework/main/run.sh
+```
+```bash
 chmod +x run.sh
+```
+```bash
 ./metasploit.sh
 ```
 ### 🏁 After Installation
-**Run the command:)**
+**Run the command :)**
 ```bash
 msfconsole
 ```
