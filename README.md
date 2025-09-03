@@ -19,7 +19,7 @@ chmod +x run.sh
 ./metasploit.sh
 ```
 ### 🏁 After Installation
-**Run the command:) **
+**Run the command:)**
 ```bash
 msfconsole
 ```
