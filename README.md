@@ -17,3 +17,9 @@ pkg install wget
 wget https://github.com/gMohamedGoual/Metasploitable-Framework/run.sh
 chmod +x run.sh
 ./metasploit.sh
+```
+### 🏁 After Installation
+**Run the command:) **
+```bash
+msfconsole
+```
