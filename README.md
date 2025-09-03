@@ -14,7 +14,7 @@
 ### ⚙️ How to Use
 ```bash
 pkg install wget
-wget https://github.com/gMohamedGoual/Metasploitable-Framework/run.sh
+wget https://github.com/MohamedGoual/Metasploitable-Framework/run.sh
 chmod +x run.sh
 ./metasploit.sh
 ```
